@@ -4,3 +4,4 @@ console.log('Calculating...')
 
 console.log(`Result is ${result}`);
 console.log('Lorem ipsum');
+console.log('1');
