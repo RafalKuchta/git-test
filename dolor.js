@@ -7,3 +7,6 @@ console.log('Lorem ipsum');
 console.log('1');
 console.log('Lorem ipsum');
 console.log('2')
+console.log('Lorem ipsum');
+console.log('3')
+
